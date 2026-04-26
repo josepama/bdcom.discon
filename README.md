@@ -1,7 +1,7 @@
 # BDCOM OLT Disconnection Automation Tool
 # Model (BDCOM GP3600-16B • GP3600-16B-2DC)
 
-A Python-based automation tool for managing subscriber disconnections on BDCom Optical Line Terminals (OLTs) with support for FTTH (Fiber to the Home) and HFC/Cable networks.
+A Python-based automation tool for managing subscriber disconnections on BDCOM Optical Line Terminals (OLTs) with support for FTTH (Fiber to the Home) and HFC/Cable networks.
 
 ## Overview
 
